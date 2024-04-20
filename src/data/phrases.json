@@ -1,0 +1,63 @@
+
+[
+    {
+      "phrase": "When in doubt, console.log() it out!",
+      "author": "proverbia.net"
+    },
+    {
+      "phrase": "I don't always write bugs, but when I do, I make sure it's on Friday evening.",
+      "author": "Proverbio Japones"
+      },
+    {
+      "phrase": "React: turning spaghetti code into lasagna code, one layer at a time.",
+      "author": "proverbia.net"
+    },
+    {
+      "phrase": "State management is like a box of chocolates, you never know what you're gonna get..",
+      "author": "proverbia.net"
+    },
+    {
+      "phrase": "You can't spell 'React' without 'EA'... and sometimes that's exactly how it feels: pay to win.",
+      "author": "proverbia.net"
+    },
+    {
+      "phrase": "CSS is like a clingy ex, always showing up unexpectedly.",
+      "author": "proverbia.net"
+    },
+    {
+      "phrase": "Refactoring is like doing laundry: you avoid it until you run out of clean clothes.",
+      "author": "proverbia.net"
+    },
+    {
+      "phrase": "Redux: where the state is made up and the actions don't matter.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Sometimes I wonder if my React components judge me for how I organize them.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Debugging React hooks is like untangling headphones – frustrating yet oddly satisfying when you finally get it right.",
+      "author": "ajescudero"
+    },
+     {
+      "phrase": "Error messages in React: the compiler's way of saying 'Surprise!'",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Writing JavaScript without semicolons is like driving without a seatbelt... exhilarating until you crash.",
+      "author": "Proverbio Japones"
+      },
+    {
+      "phrase": "That feeling when you spend hours optimizing your code only to find out it was a typo all along.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Me trying to understand someone else's React code: 'Ah, yes, I see what you did there... no, wait, I don't.",
+      "author": "ajescudero"
+    },
+    {
+      "phrase": "Why do we call it 'state management' when half the time it feels more like 'state mismanagement'",
+      "author": "ajescudero"
+    }
+]
